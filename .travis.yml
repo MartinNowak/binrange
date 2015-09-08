@@ -7,6 +7,3 @@ d:
  - ldc-0.15.1
  - gdc-4.9.2
  
-script:
-  - dub test --compiler=${DC}
-
